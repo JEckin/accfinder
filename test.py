@@ -6,7 +6,7 @@ b.addheaders = [('User-agent','Mozilla/9.0 (X11; U; Linux i686; de-DE; rv:1.8.1.
 b.open("https://o1u.de/")
 b.select_form(nr=0)
 print b.form
-#b.form['email'] = "e-justin@web.de"
+#b.form['email'] = ""
 #b.form['pass'] = ""
 #b.method = "POST"
 #submit = b.submit()
